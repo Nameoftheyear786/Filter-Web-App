@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: rgb(148, 198, 110);
+    
+}
+
+h3{
+    font-size: 25px !important;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+canvas {
+    border:1px solid black;
+    
+}
